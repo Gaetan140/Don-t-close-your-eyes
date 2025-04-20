@@ -1,25 +1,28 @@
 m_ProjectFiles:
   m_ManifestFileStatus:
-    m_FilePath: C:/Users/guarn/OneDrive/Desktop/Don't close your eyes/Packages/manifest.json
+    m_FilePath: C:/Users/mauri/OneDrive/Documenti/GitHub/Don-t-close-your-eyes/Don't
+      close your eyes/Packages/manifest.json
     m_PathExists: 1
     m_ContentTrackingEnabled: 1
     m_ModificationDate:
       serializedVersion: 2
-      ticks: 638807838359764264
-    m_Hash: 205969706
+      ticks: 638807865601765203
+    m_Hash: 667505191
   m_LockFileStatus:
-    m_FilePath: C:/Users/guarn/OneDrive/Desktop/Don't close your eyes/Packages/packages-lock.json
+    m_FilePath: C:/Users/mauri/OneDrive/Documenti/GitHub/Don-t-close-your-eyes/Don't
+      close your eyes/Packages/packages-lock.json
     m_PathExists: 1
     m_ContentTrackingEnabled: 1
     m_ModificationDate:
       serializedVersion: 2
-      ticks: 638807838369464643
-    m_Hash: 3025046548
+      ticks: 638807865601776132
+    m_Hash: 2904195732
 m_EmbeddedPackageManifests:
   m_ManifestsStatus: {}
 m_LocalPackages:
   m_LocalFileStatus: []
-m_ProjectPath: C:/Users/guarn/OneDrive/Desktop/Don't close your eyes/Packages
+m_ProjectPath: C:/Users/mauri/OneDrive/Documenti/GitHub/Don-t-close-your-eyes/Don't
+  close your eyes/Packages
 m_EditorVersion: 6000.0.47f1 (2ad1ed33fd3b)
 m_ResolvedPackages:
 - packageId: com.unity.multiplayer.center@1.0.0
@@ -27,7 +30,8 @@ m_ResolvedPackages:
   isDirectDependency: 1
   version: 1.0.0
   source: 2
-  resolvedPath: C:\Users\guarn\OneDrive\Desktop\Don't close your eyes\Library\PackageCache\com.unity.multiplayer.center@f3fb577b3546
+  resolvedPath: C:\Users\mauri\OneDrive\Documenti\GitHub\Don-t-close-your-eyes\Don't
+    close your eyes\Library\PackageCache\com.unity.multiplayer.center@f3fb577b3546
   assetPath: Packages/com.unity.multiplayer.center
   name: com.unity.multiplayer.center
   displayName: Multiplayer Center
