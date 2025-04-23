@@ -42,26 +42,13 @@
     <UnityVersion>6000.0.47f1</UnityVersion>
   </PropertyGroup>
   <ItemGroup>
+    <Analyzer Include="C:\Users\guarn\.vscode\extensions\visualstudiotoolsforunity.vstuc-1.1.1\Analyzers\Microsoft.Unity.Analyzers.dll" />
     <Analyzer Include="C:\Program Files\Unity\Hub\Editor\6000.0.47f1\Editor\Data\Tools\Unity.SourceGenerators\Unity.SourceGenerators.dll" />
     <Analyzer Include="C:\Program Files\Unity\Hub\Editor\6000.0.47f1\Editor\Data\Tools\Unity.SourceGenerators\Unity.Properties.SourceGenerator.dll" />
     <Analyzer Include="C:\Program Files\Unity\Hub\Editor\6000.0.47f1\Editor\Data\Tools\Unity.SourceGenerators\Unity.UIToolkit.SourceGenerator.dll" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Assets\Makaka Games\Publisher\Everyday Tools\SceneControl\Scripts\LoadScreen\LoadScreenControl.cs" />
-    <Compile Include="Assets\Makaka Games\Publisher\Everyday Tools\Debugging\MaterialCounter.cs" />
-    <Compile Include="Assets\Makaka Games\Publisher\Publisher Window\Inspector Info\Scripts\PublisherReadme.cs" />
-    <Compile Include="Assets\Makaka Games\Publisher\Everyday Tools\Debugging\DebugPrinter.cs" />
-    <Compile Include="Assets\Makaka Games\Publisher\Everyday Tools\SceneControl\Scripts\ScreenFader.cs" />
-    <Compile Include="Assets\Makaka Games\Publisher\Everyday Tools\SceneControl\Scripts\SceneControl.cs" />
-    <Compile Include="Assets\Makaka Games\Publisher\Everyday Tools\Debugging\NumberDebugger.cs" />
-    <Compile Include="Assets\Makaka Games\Publisher\Everyday Tools\SceneControl\Scripts\LoadScreen\LoadScreenProgressControl.cs" />
-    <Compile Include="Assets\Makaka Games\Publisher\Everyday Tools\SceneControl\Scripts\CacheControl.cs" />
-    <Compile Include="Assets\Makaka Games\Publisher\Everyday Tools\SceneControl\Scripts\LoadingAnimation\ButtonLoadingAnimationControl.cs" />
-    <Compile Include="Assets\Makaka Games\Publisher\Everyday Tools\SceneControl\Scripts\TestDontDestroy\DontDestroyOnLoadCustom.cs" />
-    <Compile Include="Assets\Makaka Games\Publisher\Everyday Tools\SceneControl\Scripts\LoadingAnimation\LoadingAnimationControl.cs" />
-  </ItemGroup>
-  <ItemGroup>
-    <None Include="Assets\Makaka Games\Mobile Game Icon Pack\Fonts\Font_Read_Me.txt" />
+    <Compile Include="Assets\Scripts\PlayerMovement.cs" />
   </ItemGroup>
   <ItemGroup>
     <Reference Include="UnityEngine">
